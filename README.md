@@ -18,11 +18,11 @@ Technologies Used
 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/AMAREESHVAR018/Whether-app-.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-app
+   cd weather-app-
    ```
 3. Open `index.html` in your browser or run a local server:
    ```bash
@@ -33,13 +33,6 @@ Installation
 - Enter a city name in the search bar and press enter to fetch weather details.
 - View temperature, humidity, and wind speed in a clean UI.
 
-## API Key Setup
-1. Sign up at [OpenWeatherMap](https://openweathermap.org/) to get an API key.
-2. Add the API key to your project (e.g., in a `.env` file or directly in the script).
-
 ## Contributing
 Feel free to fork the repository, create a branch, and submit pull requests for improvements or new features.
-
-## License
-This project is licensed under the MIT License.
 
